@@ -31,5 +31,6 @@ Qt5.8 安装包<br><br>
 学生端登录账密码在student表中可以找到 用该表的name作为账号， password 作为密码可登录学生端如：陈永喆  5252<br><br>
 管理员端登录账号密码在admin表中 用该表的username作为账号和password作为密码可登录管理员端 如admin  admin<br><br>
 具体的东西可以看我的实验报告里面<br> 我当时传到上面去了那个doc文件。
+测试
  
 
